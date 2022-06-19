@@ -3,5 +3,5 @@ function add_user() {
 
     localStorage.setItem("name_1",name_1); 
 
-    window.location ="kwitter_room.html";
+    window.location ="Kwitter_room.html";
 }
